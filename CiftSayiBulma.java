@@ -9,7 +9,6 @@ public class CiftSayiBulma {
         k = input.nextInt();
 
         for( int i=1; i <= k; i++){
-
             if( i % 3 == 0 && i % 4 == 0){
                 sum += i;
                 count++;
